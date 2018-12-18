@@ -8,5 +8,6 @@ public class ming {
 		
 		
 		System.out.println("newnewnewnew");
+		System.out.println("222");
 	}
 }
